@@ -1,3 +1,13 @@
+---
+layout: post
+title: [APM] Chapter 2
+date: 2017-7-15
+categories: book notes
+tags: [raw material]
+description: 本文为[APM]的公式整理和备忘
+---
+
+
 [TOC]
 
 # chapter 2

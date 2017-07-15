@@ -1,18 +1,16 @@
 ---
 layout: page
 title: "About"
-description: "清静"
+description: "真心清静道为宗"
 header-img: "img/green.jpg"
 ---
 
 
-<center>
+<!-- <center>
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
+</center> -->
 
-This is a personal blog.
-
-
+# Description of the blog
 
 
 
