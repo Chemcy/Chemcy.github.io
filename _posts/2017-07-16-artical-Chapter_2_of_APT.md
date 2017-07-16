@@ -9,6 +9,25 @@ description: 本文为[APM]的公式整理和备忘
 * TOC
 {:toc}
 
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
+
 # chapter 2
 ## No CAPM
 <!-- Definition of $\beta_p$ -->
