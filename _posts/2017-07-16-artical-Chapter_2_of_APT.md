@@ -6,9 +6,8 @@ categories: book notes
 tags: [raw_notes]
 description: 本文为[APM]的公式整理和备忘
 ---
-
-
-[TOC]
+* TOC
+{:toc}
 
 # chapter 2
 ## No CAPM
