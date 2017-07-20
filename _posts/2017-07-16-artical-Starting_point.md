@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 
+title: 缘起和约定
 date: 2017-7-16
-categories: Will
-tags: [foundation]
+categories: 约定
+tags: [缘起]
 description: 
 ---
 缘起-鉴往-内容规划-约束-展望
